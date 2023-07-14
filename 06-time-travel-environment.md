@@ -230,7 +230,7 @@ can.
 You can extend your arms half your height above
 yourself during the jump. Thus, you can reach above
 you a distance equal to the height of the jump plus
-1[-1/2] times your height.
+1½ times your height.
 ```
 
 ## The Environment

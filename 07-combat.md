@@ -309,7 +309,7 @@ Objects sometimes use the same size categories.
 
 ```
 Size Space
-Tiny 2[-1/2] by 2[-1/2] ft.
+Tiny 2½ by 2½ ft.
 Small 5 by 5 ft.
 Medium 5 by 5 ft.
 Large 10 by 10 ft.

@@ -1068,14 +1068,14 @@ the size of a given carpet or determines it randomly.
 d100
  Size Capacity Flying Speed
 01- 20
- 3 ft. [x] 5 ft. 200 lb. 80
+ 3 ft. × 5 ft. 200 lb. 80
  feet
 21- 55
- 4 ft. [x] 6 ft. 400 lb. 60 feet
+ 4 ft. × 6 ft. 400 lb. 60 feet
 56- 80
- 5 ft. [x] 7 ft. 600 lb. 40 feet
+ 5 ft. × 7 ft. 600 lb. 40 feet
 81 - 100
- 6 ft. [x] 9 ft. 800 lb. 30 feet
+ 6 ft. × 9 ft. 800 lb. 30 feet
 ```
 
 ```
@@ -4771,7 +4771,7 @@ If you are within 60 feet of an uncontrolled sphere,
 you can use an action to make a DC 25 Intelligence
 (Arcana) check. On a success, the sphere levitates in
 one direction of your choice, up to a number of feet
-equal to 5 [x] your Intelligence modifier (minimum 5
+equal to 5 × your Intelligence modifier (minimum 5
 feet). On a failure, the sphere moves 10 feet toward
 you. A creature whose space the sphere enters must
 succeed on a DC 13 Dexterity saving throw or be
@@ -4930,7 +4930,7 @@ centered on it.
 You have a 50 percent chance to instantly travel to
 a random plane of existence, avoiding the explosion.
 If you fail to avoid the effect, you take force damage
-equal to 16 [x] the number of charges in the staff.
+equal to 16 × the number of charges in the staff.
 Every other creature in the area must make a DC 17
 Dexterity saving throw. On a failed save, a creature
 takes an amount of damage based on how far away it
@@ -4939,9 +4939,9 @@ table. On a successful save, a creature takes half as
 much damage.
 
 **Distance from Origin Damage**
-10 ft. away or closer 8 [x] the number of charges in the staff
-11 to 20 ft. away 6 [x] the number of charges in the staff
-21 to 30 ft. away 4 [x] the number of charges in the staff
+10 ft. away or closer 8 × the number of charges in the staff
+11 to 20 ft. away 6 × the number of charges in the staff
+21 to 30 ft. away 4 × the number of charges in the staff
 
 #### Staff of Striking
 
@@ -5047,7 +5047,7 @@ centered on it.
 You have a 50 percent chance to instantly travel to
 a random plane of existence, avoiding the explosion.
 If you fail to avoid the effect, you take force damage
-equal to 16 [x] the number of charges in the staff.
+equal to 16 × the number of charges in the staff.
 Every other creature in the area must make a DC 17
 Dexterity saving throw. On a failed save, a creature
 takes an amount of damage based on how far away it
@@ -5056,9 +5056,9 @@ table. On a successful save, a creature takes half as
 much damage.
 
 **Distance from Origin Damage**
-10 ft. away or closer 8 [x] the number of charges in the staff
-11 to 20 ft. away 6 [x] the number of charges in the staff
-21 to 30 ft. away 4 [x] the number of charges in the staff
+10 ft. away or closer 8 × the number of charges in the staff
+11 to 20 ft. away 6 × the number of charges in the staff
+21 to 30 ft. away 4 × the number of charges in the staff
 
 #### Staff of the Python
 
@@ -5316,7 +5316,7 @@ bonus on the check. In addition, when you start your
 turn with control over a
  _sphere of annihilation_ , you
 can use an action to levitate it 10 feet plus a number
-of additional feet equal to 10 [x] your Intelligence
+of additional feet equal to 10 × your Intelligence
 modifier.
 
 #### Talisman of Ultimate Evil
@@ -5720,7 +5720,7 @@ creature nearest to that point. Unless they are
 picked off, the leaves turn brown and fall off
 after 24 hours.
 88- 90
- A stream of 1d4 [x] 10 gems, each worth 1 gp,
+ A stream of 1d4 × 10 gems, each worth 1 gp,
 shoots from the wand's tip in a line 30 feet long
 and 5 feet wide. Each gem deals 1 bludgeoning
 damage, and the total damage of the gems is

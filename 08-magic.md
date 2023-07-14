@@ -3675,7 +3675,7 @@ path to the sky ends the spell early.
 When you cast the spell, you change the current
 weather conditions, which are determined by the
 GM based on the climate and season. You can change
-precipitation, temperature, and wind. It takes 1d4 [x]
+precipitation, temperature, and wind. It takes 1d4 ×
 10 minutes for the new conditions to take effect.
 Once they do so, you can change the conditions again.
 When the spell ends, the weather gradually returns
@@ -4623,7 +4623,7 @@ on the terrain in the area, as determined by the GM.
 **_Fissures._** Fissures open throughout the spell's
 area at the start of your next turn after you cast the
 spell. A total of 1d6 such fissures open in locations
-chosen by the GM. Each is 1d10 [x] 10 feet deep, 10
+chosen by the GM. Each is 1d10 × 10 feet deep, 10
 feet wide, and extends from one edge of the spell's
 area to the opposite side. A creature standing on a
 spot where a fissure opens must succeed on a
@@ -10204,7 +10204,7 @@ object) appear where you want to.
 **_Off Target._** You and your group (or the target
 object) appear a random distance away from the
 destination in a random direction. Distance off target
-is 1d10 [x] 1d10 percent of the distance that was to be
+is 1d10 × 1d10 percent of the distance that was to be
 traveled. For example, if you tried to travel 120
 miles, landed off target, and rolled a 5 and 3 on the
 two d10s, then you would be off target by 15 percent,

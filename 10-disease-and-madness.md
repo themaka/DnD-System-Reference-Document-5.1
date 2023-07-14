@@ -170,7 +170,7 @@ table for 1d10 minutes.
 A character afflicted with
  **long-term madness** is
 subjected to an effect from the Long-Term Madness
-table for 1d10 [x] 10 hours.
+table for 1d10 × 10 hours.
 A character afflicted with
  **indefinite madness**
 gains a new character flaw from the Indefinite
@@ -222,7 +222,7 @@ slime, or offal.
 
 ```
 d100
- Effect (lasts 1d10 [x] 10 hours)
+ Effect (lasts 1d10 × 10 hours)
 01- 10
  The character feels compelled to repeat a
 specific activity over and over, such as washing

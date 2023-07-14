@@ -800,8 +800,8 @@ _Ammunition
 _
 Arrows (20) 1 gp 1 lb.
 Blowgun needles (50) 1 gp 1 lb.
-Crossbow bolts (20) 1 gp 1[-1/2] lb.
-Sling bullets (20) 4 cp 1[-1/2] lb.
+Crossbow bolts (20) 1 gp 1½ lb.
+Sling bullets (20) 4 cp 1½ lb.
 Antitoxin (vial) 50 gp --
 _Arcane focus_
 Crystal 10 gp 1 lb.
@@ -915,7 +915,7 @@ Container
 Backpack* 1 cubic foot/30 pounds of gear
 Barrel 40 gallons liquid, 4 cubic feet solid
 Basket 2 cubic feet/40 pounds of gear
-Bottle 1[-1/2] pints liquid
+Bottle 1½ pints liquid
 Bucket 3 gallons liquid, 1/2 cubic foot solid
 Chest 12 cubic feet/300 pounds of gear
 ```
@@ -1185,7 +1185,7 @@ Warhorse 400 gp 60 ft. 540 lb.
 
 **Item Cost Weight**
 Barding
- [x]4 [x]2
+ ×4 ×2
 Bit and bridle 2
  gp 1 lb.
 Carriage 100 gp 600 lb.
@@ -1210,10 +1210,10 @@ Wagon 35 gp 400 lb.
 Galley 30,000 gp 4 mph
 Keelboat 3,000 gp 1 mph
 Longship 10,000 gp 3 mph
-Rowboat 50 gp 1[-1/2] mph
+Rowboat 50 gp 1½ mph
 Sailing ship
  10,000 gp 2 mph
-Warship 25,000 gp 2[-1/2] mph
+Warship 25,000 gp 2½ mph
 
 ## Trade Goods
 
